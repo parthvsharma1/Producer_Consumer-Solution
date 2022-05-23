@@ -1,5 +1,5 @@
 # Producer_Consumer-Solution
-The Producer-Consumer problem is as follows:
+* The Producer-Consumer problem is as follows:
 * 1. We have a buffer of fixed size. 
 * ii. A producer can produce an item and can place it in the buffer. 
 * iii .A consumer can pick items from the buffer and can consume them. 
