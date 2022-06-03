@@ -8,6 +8,7 @@ import java.util.List;
 public class TestConsumerProducer2 {
     public static int buffercapacity=2;
     int x=2;
+    int x2=100;
 
     public static void main(String[] args) {
         List<Integer> goods = new ArrayList<>();
